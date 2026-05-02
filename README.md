@@ -3,3 +3,5 @@
 ## 📋 Descripción
 
 Sitio generado como prueba de instalacion de skills, agentes de IA
+
+Url sitio desplegado: https://cv-personal-sage.vercel.app/
