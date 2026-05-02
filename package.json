@@ -1,0 +1,35 @@
+{
+  "name": "cv-andres-quintana",
+  "version": "1.0.0",
+  "description": "CV profesional de Andres Quintana - Desarrollador Full Stack",
+  "main": "index.html",
+  "scripts": {
+    "build": "python generate_cv.py",
+    "dev": "python -m http.server 8000",
+    "preview": "python -m http.server 3000"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "portfolio",
+    "desarrollador",
+    "full-stack",
+    "andres-quintana"
+  ],
+  "author": {
+    "name": "Andres Quintana",
+    "email": "andrexquintana@gmail.com",
+    "url": "https://github.com/Andrex11"
+  },
+  "license": "MIT",
+  "homepage": "https://cv-andres-quintana.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andrex11/cv_personal.git"
+  },
+  "engines": {
+    "python": ">=3.6"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
